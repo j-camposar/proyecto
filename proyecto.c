@@ -1,4 +1,5 @@
 //integrantes jose campos- valentina miranda
+//debe tener un archivo de nombre "bacteria.bin"
 #include <stdio.h>
 #include "archivo.h"
 #include "mat.h"
